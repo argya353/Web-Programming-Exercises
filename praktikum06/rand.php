@@ -2,7 +2,6 @@
     session_start();
         if(!isset($_POST['num'])){
             $_POST['random']=rand(0,100);
-            //echo $_POST['random'];
         }else if($_POST['num']<$_POST['random']){
             echo "Waaah… masih salah ya, bilangan tebakan Anda terlalu rendah.";
         }else if($_POST['num']>$_POST['random']){
