@@ -1,3 +1,7 @@
+Nama: Putranto Argya Kuncara Jati
+NIM: K3519069
+Kelas: A
+
 Penjelasan aplikasi Game Penjumlahan:
 1. Buka url aplikasi http://game-penjumlahan-69.epizy.com/
 2. Login dengan memasukkan nama dan email
